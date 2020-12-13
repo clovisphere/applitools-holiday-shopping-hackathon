@@ -1,8 +1,11 @@
 # Applitools Holiday Shopping Hackathon
 
 ### Pre-requisite
+
 1. Install [Node.js](https://nodejs.org/en/download/)
+
 #### Run
+
 1. Download the app
    - Option 1: `git clone https://github.com/clovisphere/applitools-holiday-shopping-hackathon.git`
    - Option 2: Download it as a Zip file and extract it
@@ -14,3 +17,7 @@
 4. run `npm install`
 5. run `npx eyes-setup`
 6. run `npx cypress open` (this will open the cypress GUI)
+
+![Cypress GUI](img/cypress_gui.png)
+
+:point_up:To start a test, just click on it:-)

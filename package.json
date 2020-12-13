@@ -5,10 +5,6 @@
   "main": "index.js",
   "author": "Clovis Mugaruka <clovis.mugaruka@gmail.com>",
   "license": "MIT",
-  "scripts": {
-    "test": "npx cypress run --browser chrome --spec 'cypress/integration/appliFashion/v1/x.js'",
-    "cypress:open": "cypress open"
-  },
   "devDependencies": {
     "@applitools/eyes-cypress": "^3.16.1",
     "cypress": "^6.1.0"
