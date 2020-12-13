@@ -14,7 +14,7 @@
    - Login to Applitools > Click on the Person icon > Select My API Key
    - Linux/Mac: `export APPLITOOLS_API_KEY=<your_key>`
    - Windows: `set APPLITOOLS_API_KEY=<your_key>`
-4. run `npm install`
+4. run `yarn` or `npm install`
 5. run `npx eyes-setup`
 6. run `npx cypress open` (this will open the cypress GUI)
 
