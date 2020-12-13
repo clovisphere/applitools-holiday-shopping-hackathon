@@ -20,4 +20,4 @@
 
 ![Cypress GUI](img/cypress_gui.png)
 
-:point_up:To start a test, just click on it:-)
+:point_up:To start a test, just click on it:-) Also start with: V1 > Dev > V2 :smiley:
